@@ -1,4 +1,4 @@
-These following Module is requirements.
+These following Module are requirements.
 
 Turtle
 colorsys
